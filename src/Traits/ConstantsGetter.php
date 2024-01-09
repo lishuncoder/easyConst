@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Library\EasyConst\Traits;
+namespace Lishun\EasyConst\Traits;
 
 use Lishun\EasyConst\Annotation\EasyConstants;
 use Lishun\EasyConst\Utils\ConstantsGroupStore;
